@@ -1,8 +1,8 @@
-# Ship-Fuel-Analysis
-Project of analyzing a dataset about ship fuel
+# Maritime Operational Efficiency Analysis
+Project of analyzing a dataset about ship performance
 
 Objective:
-Analyze ship fuel consumption patterns and how other factor affect it
+Analyze ship operational efficiency and how other factor affect it
 
 Tools:
 - Python
